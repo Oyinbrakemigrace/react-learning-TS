@@ -6,6 +6,7 @@ function Login() {
         Login here
         <input type="text" />
         <button>Login</button>
+        <button>Log out</button>
     </div>
   )
 }
